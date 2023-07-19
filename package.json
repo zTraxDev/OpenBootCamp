@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Prueba para OpenBootCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "holamundo",
+    "welloworld"
+  ],
+  "author": "Bernard",
+  "license": "ISC"
+}
